@@ -3,6 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
+baseurl: /
 title: Leonard Ngo
 email: ngoanhkhoa1904@icloud.com
 author: Leonard Ngo
